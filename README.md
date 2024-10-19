@@ -79,6 +79,12 @@ If this is helpful, feel free to `Buy Me a Beer`; or check other options on the 
 
 ## Installation
 
+## Via HACS
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+
+## Manually
+
+
 1. Copy the files from the `custom_component/oura/` folder into the `custom_component/oura/` of your Home-Assistant installation.
 
 1. Configure the sensors following the instructions in `Configuration`.
